@@ -1,0 +1,52 @@
+.films{
+	color:grey;
+	font:bold italic 20px Arial;
+opacity:100;background-image:url(lenta.jpg);
+		background-attachment:fixed;
+		background-repeat:no-repeat;	
+}
+#first, #second, #third, #fourth{
+	opacity:0.8;
+	padding-top:2cm;
+}
+p{
+	font:bold italic 20px Arial;
+	color:gray;
+	padding:0px 5px;
+	text-align:center;
+background-image:url(lenta.jpg);
+		background-attachment:fixed;
+		background-repeat:no-repeat;	
+	
+}
+
+h1, h2{	font:35px;
+	padding:0px 0px;
+	margin:0px;
+	
+
+		
+		text-align:center;background-image:url(lenta.jpg);
+		background-attachment:fixed;
+		background-repeat:no-repeat;
+	
+}
+body {padding:10px 10px;
+	margin:0px;
+	text-align:center;background-image:url(lenta.jpg);
+		background-attachment:fixed;
+		background-repeat:no-repeat;
+}
+div{
+	height:"1500%";
+	width:"1500%";
+	background-image:url(lenta.jpg);
+		background-attachment:fixed;
+		background-repeat:no-repeat;
+	
+	
+}
+#info{
+	text-shadow:-1px -1px #000, 
+	0 1px 0 #444;
+}
